@@ -1,0 +1,18 @@
+
+Attendance Report
+
+Unit	    	:ECSC410
+Unit Name	:SDP01
+Room	    	:21.206
+Name        	:Breakout-Room
+Lecturer	:Dr.foster
+Week        	:1
+Date	    	:1970/01/01 05:30:00
+     Student No     First Name      Last Name        Present
+        2014001         Al-Moo          Aisha              Y
+        2014565       Analysis            Sys              Y
+Lecturer Confirmed attendance : Yes/No
+Students Enrolled		: 2
+Attendance      		: 2
+Room Capacity   		: 6
+Percentage Occupancy	:100%
